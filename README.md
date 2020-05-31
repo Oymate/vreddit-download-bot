@@ -1,4 +1,4 @@
-<h1 align=center>VredditDownloader</h1>
+<h1 align=center>BACKUP VredditDownloader</h1>
 <p align=center>A bot for reddit that provides downloadable links for v.redd.it videos</p>
 
 
@@ -61,17 +61,6 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 
 ## Contact
-
+The person that actually made this
 johannes.pertl@edu.fh-joanneum.at
-
-
-## Acknowledgements
-
-Special thanks to the owner of **www.reddit.tube** who very kindly lets me use their service! 
-
-* [Praw](https://praw.readthedocs.io/en/latest)
-* [Readme Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md#acknowledgements)
-
-
-
 
